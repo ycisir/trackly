@@ -1,4 +1,4 @@
-# Financial Dashboard API
+# Trackly
 
 A Financial Dashboard for managing financial records and analytics.
 
